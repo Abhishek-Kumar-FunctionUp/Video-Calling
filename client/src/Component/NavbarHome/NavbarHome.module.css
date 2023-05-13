@@ -1,0 +1,80 @@
+.main {
+  display: flex;
+  width: 100%;
+  justify-content: space-around;
+  align-items: center;
+  height: 8vh;
+  background-color: #f2f2f5;
+}
+
+.icon {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  width: 8vw;
+}
+
+.icons {
+  font-size: 1.2rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  background-color: #dedee3;
+  border-radius: 6px;
+  padding: 0.3rem;
+  color: gray;
+}
+
+.icon button {
+  background-color: #f26d21;
+  font-size: 0.8rem;
+  color: white;
+  font-weight: 600;
+  border: none;
+  padding: 0.4rem;
+}
+
+.icon button:hover {
+  cursor: pointer;
+  background-color: #c5520f;
+  color: white;
+}
+
+.main input {
+  border-radius: 10px;
+  background-color: #dedee3;
+  border: none;
+  padding: 0.4rem;
+}
+
+.options {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  line-height: 0;
+  font-size: 1.2rem;
+  color: gray;
+}
+
+.options p {
+  font-size: 0.7rem;
+  font-weight: 700;
+}
+
+.icons:hover {
+  color: black;
+  cursor: pointer;
+}
+
+.options:hover {
+  color: black;
+  cursor: pointer;
+}
+
+
+@media screen and (max-width:1024px){
+
+   
+    
+}

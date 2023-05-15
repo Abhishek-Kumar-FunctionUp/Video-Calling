@@ -4,6 +4,24 @@ This is a full-stack video chat app built in the MERN stack made to resemble Zoo
 ## Overview
 This is Video Chat Web App. It will allow users to create rooms and can video call. It was built using the MERN stack.
 
+## Tech Used
+1.ReactJS
+
+2.ReduxJS
+
+3.FireBase
+
+4.Socket.io
+
+5.PeerJS
+
+6.React Player
+
+7.React Router Dom
+
+8.NodeJS
+
+
 ## Functionality
 1.Having SignUp and SignIn page with Firebase Authentication.
 
